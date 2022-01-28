@@ -1,0 +1,457 @@
+var response = [{
+		"0": "Occupational Safety and Health Program",
+		"equipment": [],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Safety Officer",
+				"duration": "90.0 hours",
+				"estimate": 2789.4,
+				"id": 2,
+				"quantity": 1,
+				"rate": 743.84
+			},
+			{
+				"actual": 0.0,
+				"description": "First Aider",
+				"duration": "900.0 hours",
+				"estimate": 25542.0,
+				"id": 1,
+				"quantity": 1,
+				"rate": 681.12
+			}
+		],
+		"material": [],
+		"quantity": 2.5
+	},
+	{
+		"0": "Painting",
+		"equipment": [],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "456.0 hours",
+				"estimate": 1154.44,
+				"id": 5,
+				"quantity": 1,
+				"rate": 60.76
+			},
+			{
+				"actual": 100.0,
+				"description": "Painter",
+				"duration": "456.0 hours",
+				"estimate": 2993.26,
+				"id": 4,
+				"quantity": 2,
+				"rate": 78.77
+			}
+		],
+		"material": [{
+				"actual": 1500.0,
+				"description": " Pvc Cement Solvent",
+				"estimate": 2730.0,
+				"id": 2,
+				"quantity": 7.0,
+				"unit": "gal.",
+				"unit_cost": 390.0
+			},
+			{
+				"actual": 2000.0,
+				"description": "1/2 Tapelon Tape",
+				"estimate": 2840.0,
+				"id": 3,
+				"quantity": 8.0,
+				"unit": "pcs.",
+				"unit_cost": 355.0
+			}
+		],
+		"quantity": 186.88
+	},
+	{
+		"0": "Plastering",
+		"equipment": [],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Mason",
+				"duration": "336.0 hours",
+				"estimate": 4411.12,
+				"id": 6,
+				"quantity": 4,
+				"rate": 78.77
+			},
+			{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "336.0 hours",
+				"estimate": 3402.56,
+				"id": 7,
+				"quantity": 4,
+				"rate": 60.76
+			}
+		],
+		"material": [{
+				"actual": 0.0,
+				"description": " Wall Mounted Faucet",
+				"estimate": 20640.0,
+				"id": 4,
+				"quantity": 80.0,
+				"unit": "pcs.",
+				"unit_cost": 258.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Surface Mounted Faucet",
+				"estimate": 3640.0,
+				"id": 5,
+				"quantity": 8.0,
+				"unit": "pcs.",
+				"unit_cost": 455.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Po Plug",
+				"estimate": 432.0,
+				"id": 6,
+				"quantity": 4.0,
+				"unit": "pcs.",
+				"unit_cost": 108.0
+			}
+		],
+		"quantity": 319.29
+	},
+	{
+		"0": "Tiling",
+		"equipment": [],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Tiles Installer",
+				"duration": "696.0 hours",
+				"estimate": 4568.66,
+				"id": 8,
+				"quantity": 2,
+				"rate": 78.77
+			},
+			{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "696.0 hours",
+				"estimate": 5286.12,
+				"id": 9,
+				"quantity": 3,
+				"rate": 60.76
+			}
+		],
+		"material": [{
+				"actual": 0.0,
+				"description": " Strainer",
+				"estimate": 11200.0,
+				"id": 7,
+				"quantity": 140.0,
+				"unit": "pcs.",
+				"unit_cost": 80.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Water Closet",
+				"estimate": 1920.0,
+				"id": 8,
+				"quantity": 24.0,
+				"unit": "pcs.",
+				"unit_cost": 80.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Bidet Set",
+				"estimate": 2500.0,
+				"id": 9,
+				"quantity": 10.0,
+				"unit": "pcs.",
+				"unit_cost": 250.0
+			}
+		],
+		"quantity": 46.14
+	},
+	{
+		"0": "Project Billboard",
+		"equipment": [],
+		"labor": [],
+		"material": [{
+				"actual": 0.0,
+				"description": " Ball Cock",
+				"estimate": 450.0,
+				"id": 10,
+				"quantity": 30.0,
+				"unit": "pcs.",
+				"unit_cost": 15.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Flush Valve",
+				"estimate": 240.0,
+				"id": 11,
+				"quantity": 16.0,
+				"unit": "pcs.",
+				"unit_cost": 15.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Fill Valve",
+				"estimate": 62.0,
+				"id": 12,
+				"quantity": 1.0,
+				"unit": "pcs.",
+				"unit_cost": 62.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Flush (Push Button",
+				"estimate": 600.0,
+				"id": 13,
+				"quantity": 1.0,
+				"unit": "pcs.",
+				"unit_cost": 600.0
+			}
+		],
+		"quantity": 1.0
+	},
+	{
+		"0": "Installation of Water and Sewer Lines",
+		"equipment": [],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Master Plumber",
+				"duration": "624.0 hours",
+				"estimate": 4096.04,
+				"id": 10,
+				"quantity": 2,
+				"rate": 78.77
+			},
+			{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "624.0 hours",
+				"estimate": 1579.76,
+				"id": 11,
+				"quantity": 1,
+				"rate": 60.76
+			}
+		],
+		"material": [{
+				"actual": 0.0,
+				"description": " Washbasin Bolts",
+				"estimate": 840.0,
+				"id": 14,
+				"quantity": 7.0,
+				"unit": "pcs.",
+				"unit_cost": 120.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Toilet Flange",
+				"estimate": 177.0,
+				"id": 15,
+				"quantity": 3.0,
+				"unit": "pcs.",
+				"unit_cost": 59.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Mount Front Lever",
+				"estimate": 756.0,
+				"id": 16,
+				"quantity": 6.0,
+				"unit": "pcs.",
+				"unit_cost": 126.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Toilet Screw",
+				"estimate": 0.0,
+				"id": 17,
+				"quantity": 2.0,
+				"unit": "pcs.",
+				"unit_cost": 0.0
+			}
+		],
+		"quantity": 1.0
+	},
+	{
+		"0": "Installation of Plumbing Fixtures",
+		"equipment": [{
+			"actual": 24.0,
+			"description": "Payloader",
+			"duration": "4.0 hours",
+			"estimate": 6148.0,
+			"id": 1,
+			"quantity": 1.0,
+			"rate": 1537.0
+		}],
+		"labor": [{
+				"actual": 0.0,
+				"description": "Master Plumber",
+				"duration": "456.0 hours",
+				"estimate": 2993.26,
+				"id": 12,
+				"quantity": 2,
+				"rate": 78.77
+			},
+			{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "456.0 hours",
+				"estimate": 2308.88,
+				"id": 13,
+				"quantity": 2,
+				"rate": 60.76
+			},
+			{
+				"actual": 0.0,
+				"description": "Laborer",
+				"duration": "18.0 hours",
+				"estimate": 6562.08,
+				"id": 14,
+				"quantity": 6,
+				"rate": 60.76
+			}
+		],
+		"material": [{
+				"actual": 0.0,
+				"description": " Shower Head",
+				"estimate": 13000.0,
+				"id": 18,
+				"quantity": 2.0,
+				"unit": "pcs.",
+				"unit_cost": 6500.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Shower Hose",
+				"estimate": 3500.0,
+				"id": 19,
+				"quantity": 1.0,
+				"unit": "pcs.",
+				"unit_cost": 3500.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Shower Handle",
+				"estimate": 5000.0,
+				"id": 20,
+				"quantity": 1.0,
+				"unit": "pcs.",
+				"unit_cost": 5000.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Glass Shelf",
+				"estimate": 3500.0,
+				"id": 21,
+				"quantity": 1.0,
+				"unit": "pcs.",
+				"unit_cost": 3500.0
+			},
+			{
+				"actual": 0.0,
+				"description": " Robe Hook",
+				"estimate": 570.0,
+				"id": 22,
+				"quantity": 2.0,
+				"unit": "pcs.",
+				"unit_cost": 285.0
+			}
+		],
+		"quantity": 1.0
+	},
+	{
+		"0": "Scaffold Assembly",
+		"equipment": [{
+			"actual": 0.0,
+			"description": "Mini Dump Truck",
+			"duration": "9.0 hours",
+			"estimate": 1107.0,
+			"id": 2,
+			"quantity": 1.0,
+			"rate": 123.0
+		}],
+		"labor": [{
+			"actual": 0.0,
+			"description": "Laborer",
+			"duration": "18.0 hours",
+			"estimate": 6562.08,
+			"id": 15,
+			"quantity": 6,
+			"rate": 60.76
+		}],
+		"material": [],
+		"quantity": 24.26
+	},
+	{
+		"0": "Trusses Installation",
+		"equipment": [{
+			"actual": 0.0,
+			"description": "10 Wheeler Truck",
+			"duration": "9.3 hours",
+			"estimate": 1148.0,
+			"id": 3,
+			"quantity": 1.0,
+			"rate": 123.0
+		}],
+		"labor": [{
+			"actual": 0.0,
+			"description": "Laborer",
+			"duration": "14.0 hours",
+			"estimate": 5103.84,
+			"id": 16,
+			"quantity": 6,
+			"rate": 60.76
+		}],
+		"material": [],
+		"quantity": 54.48
+	},
+	{
+		"0": "CHB Laying",
+		"equipment": [],
+		"labor": [{
+			"actual": 0.0,
+			"description": "Laborer",
+			"duration": "168.0 hours",
+			"estimate": 1701.28,
+			"id": 17,
+			"quantity": 4,
+			"rate": 60.76
+		}],
+		"material": [],
+		"quantity": 15.89
+	},
+	{
+		"0": "Installation of Lighting Fixtures and Outlets",
+		"equipment": [],
+		"labor": [{
+			"actual": 500.0,
+			"description": "Electrician",
+			"duration": "336.0 hours",
+			"estimate": 4411.12,
+			"id": 3,
+			"quantity": 4,
+			"rate": 78.77
+		}],
+		"material": [{
+			"actual": 15000.0,
+			"description": "#4 PVC Pipe 1000",
+			"estimate": 17000.0,
+			"id": 1,
+			"quantity": 10.0,
+			"unit": "lgts.",
+			"unit_cost": 1700.0
+		}],
+		"quantity": 1.0
+	},
+	{
+		"direct_total_cost": "100",
+		"direct_unit_cost": "200",
+		"ocm": "300",
+		"profit": "400",
+		"total_cost": "500",
+		"total_unit_cost": "600",
+		"vat": "700"
+	}
+]
